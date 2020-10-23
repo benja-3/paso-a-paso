@@ -1,4 +1,4 @@
-<css># paso-a-paso
+<html># paso-a-paso
 <head> como hice mi hola mundo </head>
 <h1>1)crear el repositorio en github</h1><BASEFONT SIZE=150%>
 <h1>2)copiar el repositorio</h1>
