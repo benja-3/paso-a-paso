@@ -1,5 +1,4 @@
-<python>
-<h1># Paso-a-paso</h1>
+<h1># Paso-a-paso para github en visual studio code </h1>
 <head><h2> Como hice mi hola mundo </h2></head>
 <h3>1)Crear el repositorio en github</h3>
 <h3>2)Copiar el repositorio</h3>
